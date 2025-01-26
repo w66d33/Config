@@ -11,11 +11,11 @@ DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,pianyuan.org
 DOMAIN-SUFFIX,123pan.com
+
 DOMAIN-KEYWORD,macat
 DOMAIN-KEYWORD,macked
 DOMAIN-KEYWORD,qnap
-
-
+DOMAIN-KEYWORD,ddnsto
 
 # ImmortalWrt 在线更新服务
 # DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
