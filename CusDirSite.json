@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "asusrouter.com",
+        "asus.com",
+        "my.router",
+        "macat.vip",
+        "macked.app",
+        "pianyuan.org"
+      ]
+    }
+  ]
+}
